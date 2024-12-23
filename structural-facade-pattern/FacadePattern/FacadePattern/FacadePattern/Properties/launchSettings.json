@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FacadePattern": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
